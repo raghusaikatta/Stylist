@@ -1,0 +1,14 @@
+
+ nav a {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+    color: green;
+}
+
+a {
+    font-style: italic;
+    color: red;
+    
+
+}
